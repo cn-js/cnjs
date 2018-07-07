@@ -16,6 +16,6 @@ npm install
 
 Step 2
 ```
-node app.js
+node src/app.js
 // 后端服务会监听3000端口，请保证3000端口未被占用以及能访问
 ```
