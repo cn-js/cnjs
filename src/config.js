@@ -33,7 +33,7 @@ var config = {
   redis_db: 0,
   redis_password: '',
 
-  session_secret: 'cnjs_test_secret', 
+  session_secret: 'node_club_secret', 
   auth_cookie_name: 'node_club',
 
   // 程序运行的端口
